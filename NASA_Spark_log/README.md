@@ -104,7 +104,7 @@ Total de erros 404: 20899
 <h3>4. Quantidade de erros 404 por dia</h3>
 
 
-<table border="1" align="center">
+<table align="center">
 <tr>
 <th>Dias</th>
 <th>Total (erros 404)</th>
