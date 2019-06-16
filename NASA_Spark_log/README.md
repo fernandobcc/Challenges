@@ -35,7 +35,9 @@ Por outro lado, ao chamar groupByKey, todos os pares de valores-chave são embar
 Explique o que o código Scala abaixo faz.
 </h3>
 <p>
-<img src="imagem.PNG"><img>
+
+ ![alt text](https://github.com/fernandobcc/Challenges/blob/master/NASA_Spark_log/imagem.png)
+  
 </p>
 <i><b>1.	val textFile = sc.textFile("hdfs://...")</b></i>
 <p>
