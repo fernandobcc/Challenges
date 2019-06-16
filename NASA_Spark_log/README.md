@@ -74,7 +74,7 @@ Total de erros 404: 20899
 </p>
 <h3>3. Os 5 URLs que mais causaram erro 404</h3>
 
-<table border="1">
+<table>
 <tr>
 <th>Host</th>
 <th>Total</th>
@@ -237,7 +237,8 @@ Total de erros 404: 20899
 
 
 <h3>5. O total de bytes retornados</h3>
-<table border="1">
+<center>
+<table>
 <tr>
 <th>Qtd_Bytes</th>
 <th>Total_Bytes</th>
@@ -247,7 +248,7 @@ Total de erros 404: 20899
 <td>65524314915</td>
 </tr>
 </table>
-
+</center>
 
 ```python
 
